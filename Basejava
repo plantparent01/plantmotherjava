@@ -11,4 +11,3 @@ public class Basejava{
   System.out.println("this is a test.");
   }
 }
-}
