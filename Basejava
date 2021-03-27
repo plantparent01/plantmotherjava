@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+public class Basejava{
+  public static void main(String[]args){
+  Scanner scnr = new Scanner(System.in);
+  
+  System.out.println("plant mother.");
+  
+  System.out.println();
+  
+  System.out.println("this is a test.");
+  }
+}
+}
